@@ -24,6 +24,7 @@ article {
 
 .article-title {
 	margin-bottom: 17px;
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
 }
 
 .article-image {
@@ -39,6 +40,11 @@ article {
 
 .article-text-1 {
 	margin-bottom: 22px;
+	font-family: 'Roboto', sans-serif;
+	line-height: 46px;
+	text-indent: 50px;
+	text-transform: capitalize;
+	letter-spacing: 3px;
 }
 
 /*article end*/
